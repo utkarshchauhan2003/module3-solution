@@ -1,0 +1,49 @@
+.nav-align{
+    float: left;
+}
+.navbar{
+}
+.navbar-nav{
+    padding: 0;
+    margin: 0;    
+}
+.navbar-brand{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.margin-right-auto{
+    margin-right: auto;    
+}
+h1{
+    margin-bottom: 5%;
+}
+
+ul li {
+    list-style: none;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+ul li a{
+    width: 100%;
+
+}
+#foodMenu{
+    background-color: rgb(68, 68, 68);
+}
+.nav-link{
+    display: block !important;
+    text-align: center !important;
+    border-bottom: 1px solid #6e6e6e;
+    color: white !important;
+}
+.chicken-box{
+    /* padding:2% 5%; 
+    margin: 5% 0; */
+    background-color: rgb(0, 200, 255);
+    border: 1px solid #6e6e6e;
+}
+.chicken-box-holder{
+    display: flex;
+    justify-content: center;
+}
